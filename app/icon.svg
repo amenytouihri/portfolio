@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path
+    d="M122 352C176 248 257 108 332 92C382 82 394 130 360 176C324 225 265 258 204 276C151 292 94 285 74 248C54 211 82 164 132 143C182 122 242 133 278 164"
+    fill="none"
+    stroke="black"
+    stroke-width="26"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M332 92C308 190 292 276 296 350C298 394 322 408 352 374C384 338 414 280 438 222"
+    fill="none"
+    stroke="black"
+    stroke-width="30"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M180 292C238 282 300 274 358 276"
+    fill="none"
+    stroke="black"
+    stroke-width="18"
+    stroke-linecap="round"
+  />
+</svg>
