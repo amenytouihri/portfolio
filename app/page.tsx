@@ -111,16 +111,14 @@ export default function Home() {
 
   <div className="relative z-10 flex min-h-screen items-center justify-end px-8 md:px-20">
     <div className="w-full max-w-xl text-right text-white">
-        <h1 className="serif text-[5rem] font-light leading-none tracking-[0.08em] md:text-[8rem] text-white/95">
-        AMENY
+<h1 className="serif text-[7.5rem] font-light leading-none tracking-[0.08em] md:text-[12rem] text-white/95">        AMENY
       </h1>
 
       <div className="mt-10">
-        <h2 className="serif mb-2 text-2xl font-light md:text-3xl text-white/80">
-          I am drawn to signals
+<h2 className="serif mb-4 text-4xl font-light md:text-5xl text-white/85">          I am drawn to signals
         </h2>
 
-<p className="serif mt-4 max-w-l text-base font-light leading-[1.5] md:text-lg whitespace-pre-line text-white/70">          The ones hidden in data,
+<p className="serif mt-3 max-w-lg text-lg font-light leading-[1.5] md:text-2xl whitespace-pre-line text-right text-white/75">        The ones hidden in data,
           carried through behaviour,
 
           or suspended briefly in light
