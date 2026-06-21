@@ -235,16 +235,16 @@ export default function Home() {
       </section>
 
       <section className="relative overflow-hidden bg-[#d8d8d2] py-0">
-        <h2  className="serif pointer-events-none absolute left-1/2 top-1/2 z-10
-             -translate-x-1/2 -translate-y-1/2
-             text-7xl md:text-[8rem]
-             font-light tracking-[0.15em]
-             text-white/90"
+        <a
+  href="/fragments"
+  className="serif absolute left-1/2 top-1/2 z-10 -translate-x-1/2 -translate-y-1/2 text-7xl font-light tracking-[0.15em] text-white/90 transition hover:opacity-70 md:text-[8rem]"
   style={{
     textShadow:
       "0 2px 12px rgba(0,0,0,0.18), 0 0 30px rgba(0,0,0,0.15)",
-  }} > FRAGMENTS
-        </h2>
+  }}
+>
+  FRAGMENTS
+</a>
 
         <div className="grid w-full grid-cols-2 md:grid-cols-5">
           {fragments.map((src) => (
