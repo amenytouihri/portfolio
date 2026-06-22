@@ -92,6 +92,12 @@ export default function FragmentsPage() {
             </div>
           ))}
         </div>
+         {/* Footer */}
+        <footer className="py-20 text-center">
+          <p className="sans text-xs uppercase tracking-[0.35em] text-black/35">
+            Ongoing
+          </p>
+        </footer>
       </section>
     </main>
   );
